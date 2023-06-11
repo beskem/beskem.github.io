@@ -319,7 +319,7 @@ const renderLoading = (num) => {
 
 const pagination = (() => {
 
-    const perPage = 10;
+    const perPage = 3;
     var pageNow = 0;
     var resultData = 0;
 
