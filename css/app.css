@@ -71,3 +71,9 @@ body {
 .card-body {
     overflow-wrap: break-word !important;
 }
+
+.bg-img {
+    max-width: 826;
+    height: auto;
+    object-fit: cover;
+}
